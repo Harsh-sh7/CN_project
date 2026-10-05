@@ -1,0 +1,4 @@
+.DS_Store
+.CN_Project_backup/
+__pycache__/
+*.pyc
